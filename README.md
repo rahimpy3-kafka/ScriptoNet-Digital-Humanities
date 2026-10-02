@@ -1,102 +1,58 @@
-# ScriptoNet: Digital Humanities + AI
+# Results
 
-## Overview
-
-ScriptoNet is an interdisciplinary research project combining Digital Humanities, Literary Studies, Natural Language Processing, and Explainable Artificial Intelligence.
-
-The project explores how Artificial Intelligence can assist researchers in identifying and mapping representations of therapeutic processes in literary fiction.
-
-The goal is not to replace literary interpretation, but to develop computational methods that support large-scale literary analysis.
+This directory stores experimental outputs from ScriptoNet.
 
 ---
 
-## Research Question
+# Planned Results
 
-Can AI-assisted models identify representations of healing, emotional transformation, and therapeutic processes in literary narratives while preserving humanistic interpretation?
+## Baseline Experiments
 
----
+Initial models:
 
-## Research Areas
+- Keyword-based approach
+- TF-IDF + Machine Learning models
 
-- Digital Humanities
-- Computational Literary Studies
-- Medical Humanities
-- Natural Language Processing
-- Explainable AI
+Purpose:
 
----
-
-## Research Concept
-
-Literary works often contain representations of:
-
-- trauma
-- memory
-- guilt
-- emotional conflict
-- healing
-- identity transformation
-
-Traditional close reading provides deep interpretation but is limited in scale.
-
-ScriptoNet explores whether computational methods can assist scholars in analysing larger literary collections.
+Understand limitations before advanced AI models.
 
 ---
 
-## Research Pipeline
+## Advanced NLP Models
 
-Literary Text
+Future experiments:
 
-↓
-
-Text Processing
-
-↓
-
-Passage Segmentation
-
-↓
-
-Human Annotation
-
-↓
-
-Machine Learning Models
-
-↓
-
-Explainable Predictions
-
-↓
-
-Human Interpretation
+- BERT
+- RoBERTa
+- Transformer-based classifiers
 
 ---
 
-## Current Status
+## Evaluation
 
-🚧 Project in early development
+Results will include:
 
-Completed:
-- Research direction defined
-- Repository created
-
-Upcoming:
-- Literary corpus preparation
-- Annotation framework
-- Baseline NLP experiments
-- Machine learning models
-- Explainable AI analysis
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Error analysis
 
 ---
 
-## Research Boundary
+## Explainable AI
 
-This project studies representations of therapeutic processes in literary texts.
+Future analysis:
 
-It does not:
-- diagnose mental health conditions
-- measure clinical outcomes
-- claim literature provides medical therapy
+- SHAP explanations
+- Important word analysis
+- Model interpretation
 
-The focus is literary representation and computational analysis.
+---
+
+# Research Principle
+
+Model performance alone is not the only objective.
+
+The project also studies whether AI predictions are meaningful from a literary interpretation perspective.
