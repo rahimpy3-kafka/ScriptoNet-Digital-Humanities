@@ -1,0 +1,40 @@
+passage_id,therapeutic_label,mechanism,intensity,error_rate_tfidf_lr,error_rate_sbert_lr,preview
+157,0,,0.0,0.05,1.0,"I enjoyed this scene, and yet my enjoyment was embittered both by the memory of the past and the anticipation ..."
+214,1,Narrative Reconstruction,3.0,0.45,1.0,"His tale is connected and told with an appearance of the simplest truth, yet I own to you that the ..."
+185,1,Narrative Reconstruction,3.0,1.0,1.0,"Still, as I urged our leaving Ireland with such inquietude and impatience, my father thought it best to yield. We ..."
+53,0,,0.0,0.25,1.0,"“Justine, you may remember, was a great favourite of yours; and I recollect you once remarked that if you were ..."
+78,1,Emotional Catharsis,4.0,0.95,1.0,"I could not answer. “No, Justine,” said Elizabeth; “he is more convinced of your innocence than I was, for even ..."
+77,1,Emotional Catharsis,4.0,1.0,1.0,"She paused, weeping, and then continued, “I thought with horror, my sweet lady, that you should believe your Justine, whom ..."
+217,1,Emotional Catharsis,3.0,0.05,1.0,"My beloved Sister, September 2d. I write to you, encompassed by peril and ignorant whether I am ever doomed to ..."
+155,1,Narrative Reconstruction,3.0,0.95,0.95,But in Clerval I saw the image of my former self; he was inquisitive and anxious to gain experience and ...
+43,0,,0.0,0.7,0.95,"The summer months passed while I was thus engaged, heart and soul, in one pursuit. It was a most beautiful ..."
+222,1,Narrative Reconstruction,4.0,0.65,0.9,“Yet I cannot ask you to renounce your country and friends to fulfil this task; and now that you are ...
+127,0,,0.0,0.05,0.6,"“I knocked. ‘Who is there?’ said the old man. ‘Come in.’ “I entered. ‘Pardon this intrusion,’ said I; ‘I am ..."
+26,1,Narrative Reconstruction,4.0,0.1,0.55,"I feel exquisite pleasure in dwelling on the recollections of childhood, before misfortune had tainted my mind and changed its ..."
+84,1,Emotional Catharsis,3.0,0.1,0.55,"I listened to this discourse with the extremest agony. I, not in deed, but in effect, was the true murderer. ..."
+195,1,Emotional Catharsis,3.0,1.0,0.55,"I took the hand of Elizabeth. “You are sorrowful, my love. Ah! If you knew what I have suffered and ..."
+82,0,,0.0,0.1,0.55,At these moments I wept bitterly and wished that peace would revisit my mind only that I might afford them ...
+125,0,,0.0,0.25,0.5,"“Several changes, in the meantime, took place in the cottage. The presence of Safie diffused happiness among its inhabitants, and ..."
+151,0,,0.0,1.0,0.4,It was in the latter end of September that I again quitted my native country. My journey had been my ...
+62,1,Narrative Reconstruction,3.0,0.9,0.4,Clerval spoke thus as we hurried through the streets; the words impressed themselves on my mind and I remembered them ...
+141,0,,0.0,0.0,0.3,Chapter 17 The being finished speaking and fixed his looks upon me in the expectation of a reply. But I ...
+190,0,,0.0,0.0,0.2,"“Do not let this letter disturb you; do not answer tomorrow, or the next day, or even until you come, ..."
+60,0,,0.0,0.1,0.1,"“He was conveyed home, and the anguish that was visible in my countenance betrayed the secret to Elizabeth. She was ..."
+31,1,Narrative Reconstruction,3.0,0.9,0.1,"She died calmly, and her countenance expressed affection even in death. I need not describe the feelings of those whose ..."
+114,1,Narrative Reconstruction,3.0,0.75,0.1,"“I cannot describe to you the agony that these reflections inflicted upon me; I tried to dispel them, but sorrow ..."
+80,0,,0.0,1.0,0.05,"Chapter 9 Nothing is more painful to the human mind than, after the feelings have been worked up by a ..."
+67,0,,0.0,0.0,0.05,"“She most of all,” said Ernest, “requires consolation; she accused herself of having caused the death of my brother, and ..."
+10,0,,0.0,0.05,0.0,"This appearance excited our unqualified wonder. We were, as we believed, many hundred miles from any land; but this apparition ..."
+16,1,Narrative Reconstruction,3.0,0.0,0.0,Will you smile at the enthusiasm I express concerning this divine wanderer? You would not if you saw him. You ...
+193,0,,0.0,0.0,0.0,"Great God! If for one instant I had thought what might be the hellish intention of my fiendish adversary, I ..."
+199,0,,0.0,0.0,0.0,"The report of the pistol brought a crowd into the room. I pointed to the spot where he had disappeared, ..."
+79,0,,0.0,0.0,0.0,And on the morrow Justine died. Elizabeth’s heart-rending eloquence failed to move the judges from their settled conviction in the ...
+15,1,Narrative Reconstruction,4.0,0.0,0.0,"Such words, you may imagine, strongly excited my curiosity; but the paroxysm of grief that had seized the stranger overcame ..."
+167,0,,0.0,0.0,0.0,"“Devil, cease; and do not poison the air with these sounds of malice. I have declared my resolution to you, ..."
+81,0,,0.0,0.0,0.0,"This advice, although good, was totally inapplicable to my case; I should have been the first to hide my grief ..."
+226,1,Narrative Reconstruction,4.0,0.9,0.0,"“Oh, it is not thus—not thus,” interrupted the being. “Yet such must be the impression conveyed to you by what ..."
+177,0,,0.0,0.0,0.0,"A fever succeeded to this. I lay for two months on the point of death; my ravings, as I afterwards ..."
+123,1,Narrative Reconstruction,4.0,0.5,0.0,“The volume of _Plutarch’s Lives_ which I possessed contained the histories of the first founders of the ancient republics. This ...
+211,0,,0.0,0.55,0.0,"On hearing this information I suffered a temporary access of despair. He had escaped me, and I must commence a ..."
+153,1,Emotional Catharsis,4.0,0.0,0.0,Clerval! Beloved friend! Even now it delights me to record your words and to dwell on the praise of which ...
+215,1,Narrative Reconstruction,4.0,0.4,0.0,Our conversations are not always confined to his own history and misfortunes. On every point of general literature he displays ...

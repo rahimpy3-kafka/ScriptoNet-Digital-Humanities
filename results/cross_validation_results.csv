@@ -1,0 +1,6 @@
+Model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std
+TF-IDF + Linear SVM,0.642,0.166,0.639,0.247,0.61,0.291,0.595,0.229
+TF-IDF + Logistic Regression,0.623,0.151,0.656,0.322,0.453,0.275,0.501,0.249
+Sentence-BERT + Logistic Regression,0.62,0.162,0.666,0.255,0.525,0.244,0.556,0.207
+TF-IDF + Random Forest,0.613,0.155,0.644,0.255,0.562,0.25,0.568,0.196
+Majority baseline,0.514,0.029,0.0,0.0,0.0,0.0,0.0,0.0
