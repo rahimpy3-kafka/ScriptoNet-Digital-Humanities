@@ -179,10 +179,7 @@ Batch 03 was labelled by the author after reviewing AI-suggested labels; every f
 
 ---
 
-## Author
-
-**Rupa**, 2nd-year Electronics and Communication Engineering student, Mallareddy Engineering College for Women
-<!-- ✍️ Add LinkedIn / email, and any team members or supervisors involved -->
+#
 
 ## License
 
